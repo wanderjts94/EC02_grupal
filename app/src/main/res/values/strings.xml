@@ -3,4 +3,10 @@
     <string name="btnregistro">REGISTRO</string>
     <string name="btnformulario">FORMULARIO</string>
     <string name="btnLIstado">LISTADO</string>
+    <string name="PlaceNombre">Nombre</string>
+    <string name="PlaceApellidos">Apellidos</string>
+    <string name="PlaceDNI">DNI</string>
+    <string name="PlaceCelular">Celular</string>
+    <string name="PlaceEmail">Email</string>
+    <string name="PlaceCualidad">Ingrese otra cualidad</string>
 </resources>
